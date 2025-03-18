@@ -1,6 +1,7 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![imagen]()  
+![imagen](![Uploading image.png…]()
+)  
 ## Herramientas utilizadas:
 
 * HTML
