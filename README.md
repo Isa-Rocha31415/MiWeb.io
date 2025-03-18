@@ -1,6 +1,6 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![imagen](![Uploading image.png…]()
+![imagen](https://github.com/Isa-Rocha31415/MiWeb.io/blob/main/web.png)
 )  
 ## Herramientas utilizadas:
 
