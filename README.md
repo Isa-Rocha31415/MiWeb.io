@@ -1,7 +1,7 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+# Portfaolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
 ![imagen](https://github.com/Isa-Rocha31415/MiWeb.io/blob/main/web.png)
-)  
+
 ## Herramientas utilizadas:
 
 * HTML
